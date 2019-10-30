@@ -1,0 +1,71 @@
+
+Home Pagina
+-------------------
+Wizards Unite Fanpage
+
+Magical Creatures
+The following Foundables can be found in the Care of Magical Creatures category of the Registry in Harry Potter: Wizards Unite.
+
+--> Lijst van creatures
+
+Naam:       Baby Hippogriff
+Beschr.:    Hippogriffs build nests upon the ground for their young where they lay a single large, fragile egg which hatches within a remarkable 24 hours. Infant Hippogriffs can fly within a week of hatching.
+Details:    XP              250
+            Spell           Meteolojinx Recanto
+            Confoundable    A whirlwind Confoundable has trapped a Baby Hippogriff.
+
+Naam:       Buckbeak
+Beschr.:    Buckbeak was a Hippogriff saved by Harry Potter from an unfair execution. Buckbeak was instrumental in enabling Sirius Black to escape the Dementors and leave Hogwarts.
+Details:    XP              100
+            Spell           Alohomora
+            Confoundable    A shackle Confoundable has trapped Buckbeak.
+
+Naam:       Baby Unicorn
+Beschr.:    Unicorn foals are initially gold in colour before turning silver and then white as they mature. Unicorns inhabit the forests of Europe and their horn, blood, and hair all have coveted magical properties.
+Details:    XP              200
+            Spell           Bombarda
+            Confoundable    A snake Confoundable is guarding a Baby Unicorn.
+
+Naam:       Dragon Egg
+Beschr.:    Dragon mothers are extremely protective of their eggs, breathing fire on them to keep them warm and incubate their young. Dragon Eggs are classified as Class A Non-Tradeable Material.
+Details:    XP              250
+            Spell           Flipendo
+            Confoundable    A Security Troll Confoundable is guarding a Dragon Egg.
+
+Naam:       Firenze
+Beschr.:    Firenze is a Centaur who lives within the Forbidden Forest. He briefly broke with Centaur tradition and taught Divination at Hogwarts School of Witchcraft and Wizardry before eventually returning to his colony following the Battle of Hogwarts.
+Details:    XP              150
+            Spell           Diffindo
+            Confoundable    A rope Confoundable has trapped Firenze.
+
+Naam:       Puffskein
+Beschr.:    A popular pet for wizarding children, a Puffskein is a docile magical creature covered in fur. They are easy to care for, and have no objection to being cuddled or thrown about.
+Details:    XP              0
+            Spell           Meteolojinx Recanto
+            Confoundable    A storm Confoundable has trapped a Puffskein.
+
+
+De Fanclub
+-------
+
+Hieronder een oplijsting van onze fans!
+
+Juliane Kaestner            MagicalJuliane
+Roderic Took-Brandybuck     ProRoderic
+Sabrina Bachmeier           WannIstMikkel
+Nena Dietrich               Irgendwie
+Becky Dandonneau            BuckBecky
+Vachel Doucet               VaCheval
+Anoniem                     L0TR<3
+
+Sidebar:    [Word nu ook fan] --> link naar de "Word Nu Fan"-pagina
+
+
+
+Word nu fan
+-----------
+
+Ja, ik wil ook dolgraag deel uitmaken van deze fanclub! Stuur jouw naam, bijnaam naar ons, en wij voegen jou toe tot de happy few Magical Creatures Fanclub!
+
+Contactformulier met velden:
+- naam, bijnaam, akkoord voor publicatie van naam (ja/nee)
